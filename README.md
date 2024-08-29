@@ -1,24 +1,20 @@
-In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
+# NxtWatch
 
-### Refer to videos below:
+**NxtWatch** is a video streaming platform that I built to apply and demonstrate the React JS concepts I've learned. The app allows users to browse, search, and watch videos across various categories, similar to popular video-sharing platforms.
 
-**Success View** <br/>
+## Key Features
 
-<div style="text-align: center;">
-     <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+- **Video Browsing and Search:** Users can explore videos across different genres and categories.
+- **Responsive Design:** The app is optimized for both desktop and mobile devices.
+- **User Authentication:** Secure login and signup functionality to personalize user experience.
+- **Theming:** Light and dark mode options for a customized viewing experience.
+- **API Integration:** Fetches video data dynamically using API calls.
+- **State Management:** Efficiently manages application state using React's built-in hooks.
 
-**Failure View** <br/>
+## Deployed Link
 
-<div style="text-align: center;">
-    <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+You can access the live version of the app here: [https://nxtwatchkp.ccbp.tech/](https://nxtwatchkp.ccbp.tech/)
+--- 
 
 ### Design Files
 
@@ -592,58 +588,3 @@ console.log(formatDistanceToNow(new Date(2021, 8, 20)))
 - [https://assets.ccbp.in/frontend/react-js/nxt-watch-linked-in-logo-img.png](https://assets.ccbp.in/frontend/react-js/nxt-watch-linked-in-logo-img.png) alt should be **linked in logo**
 
 </details>
-
-<details>
-<summary>Colors</summary>
-
-<br/>
-
-<div style="background-color: #0f0f0f; width: 150px; padding: 10px; color: white">Hex: #0f0f0f</div>
-<div style="background-color: #f9f9f9; width: 150px; padding: 10px; color: black">Hex: #f9f9f9</div>
-<div style="background-color: #f8fafc; width: 150px; padding: 10px; color: black">Hex: #f8fafc</div>
-<div style="background-color: #1e293b; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
-<div style="background-color: #f1f5f9; width: 150px; padding: 10px; color: black">Hex: #f1f5f9</div>
-<div style="background-color: #475569; width: 150px; padding: 10px; color: white">Hex: #475569</div>
-<div style="background-color: #f1f1f1; width: 150px; padding: 10px; color: black">Hex: #f1f1f1</div>
-<div style="background-color: #181818; width: 150px; padding: 10px; color: white">Hex: #181818</div>
-<div style="background-color: #e2e8f0; width: 150px; padding: 10px; color: black">Hex: #e2e8f0</div>
-<div style="background-color: #94a3b8; width: 150px; padding: 10px; color: black">Hex: #94a3b8</div>
-<div style="background-color: #4f46e5; width: 150px; padding: 10px; color: white">Hex: #4f46e5</div>
-<div style="background-color: #64748b; width: 150px; padding: 10px; color: white">Hex: #64748b</div>
-<div style="background-color: #231f20; width: 150px; padding: 10px; color: white">Hex: #231f20</div>
-<div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #212121; width: 150px; padding: 10px; color: white">Hex: #212121</div>
-<div style="background-color: #616e7c; width: 150px; padding: 10px; color: white">Hex: #616e7c</div>
-<div style="background-color: #3b82f6; width: 150px; padding: 10px; color: white">Hex: #3b82f6</div>
-<div style="background-color: #00306e; width: 150px; padding: 10px; color: white">Hex: #00306e</div>
-<div style="background-color: #ebebeb; width: 150px; padding: 10px; color: black">Hex: #ebebeb</div>
-<div style="background-color: #7e858e; width: 150px; padding: 10px; color: black">Hex: #7e858e</div>
-<div style="background-color: #d7dfe9; width: 150px; padding: 10px; color: black">Hex: #d7dfe9</div>
-<div style="background-color: #cbd5e1; width: 150px; padding: 10px; color: black">Hex: #cbd5e1</div>
-<div style="background-color: #000000; width: 150px; padding: 10px; color: white">Hex: #000000</div>
-<div style="background-color: #ff0b37; width: 150px; padding: 10px; color: white">Hex: #ff0b37</div>
-<div style="background-color: #ff0000; width: 150px; padding: 10px; color: white">Hex: #ff0000</div>
-<div style="background-color: #383838; width: 150px; padding: 10px; color: white">Hex: #383838</div>
-<div style="background-color: #606060; width: 150px; padding: 10px; color: white">Hex: #606060</div>
-<div style="background-color: #909090; width: 150px; padding: 10px; color: black">Hex: #909090</div>
-<div style="background-color: #cccccc; width: 150px; padding: 10px; color: black">Hex: #cccccc</div>
-<div style="background-color: #424242; width: 150px; padding: 10px; color: black">Hex: #424242</div>
-<div style="background-color: #313131; width: 150px; padding: 10px; color: black">Hex: #313131</div>
-<div style="background-color: #f4f4f4; width: 150px; padding: 10px; color: black">Hex: #f4f4f4</div>
-<div style="background-color: #424242; width: 150px; padding: 10px; color: black">Hex: #424242</div>
-
-</details>
-
-<details>
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
