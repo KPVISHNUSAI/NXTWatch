@@ -9,7 +9,7 @@
 - **User Authentication:** Secure login and signup functionality to personalize user experience.
 - **Theming:** Light and dark mode options for a customized viewing experience.
 - **API Integration:** Fetches video data dynamically using API calls.
-- **State Management:** Efficiently manages application state using React's built-in hooks.
+- **State Management:**  Efficiently manages application state using React's component lifecycle methods in class components, following an Object-Oriented approach.
 
 ## Deployed Link
 
