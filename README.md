@@ -14,6 +14,8 @@
 ## Deployed Link
 
 - You can access the live version of the app here: [https://nxtwatchkp.ccbp.tech/](https://nxtwatchkp.ccbp.tech/).
+- `username: rahul`
+- `password: rahul@2021`
 - You can access the demonstration of the app here: [https://drive.google.com/file/d/1EFP-Gxtp18oUU548_nUFmQGlNQgnrBku/view?usp=sharing](https://drive.google.com/file/d/1EFP-Gxtp18oUU548_nUFmQGlNQgnrBku/view?usp=sharing).
   
 --- 
